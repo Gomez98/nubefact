@@ -1,0 +1,17 @@
+tipo_de_comprobante|2|
+serie|BBB1|
+numero|48|
+enlace|https://www.nubefact.com/cpe/8efeadb4-8c5b-4747-ac72-e57aba16b106-2d808ec6-6471-4481-bb92-96270e31c1b0|
+aceptada_por_sunat|false|
+sunat_description||
+sunat_note||
+sunat_responsecode||
+sunat_soap_error||
+pdf_zip_base64||
+xml_zip_base64||
+cdr_zip_base64||
+cadena_para_codigo_qr|10096548104 | 03 | BBB1 | 000048 | 174.66 | 1,145.00 | 01/07/2020 | 1 | 47504619 | PiNqRYFqhuu0vsxUTGYJ9ec3v/IKlsemUzhpGtTuDRA= ||
+codigo_hash|PiNqRYFqhuu0vsxUTGYJ9ec3v/IKlsemUzhpGtTuDRA=|
+enlace_del_pdf|https://www.nubefact.com/cpe/8efeadb4-8c5b-4747-ac72-e57aba16b106-2d808ec6-6471-4481-bb92-96270e31c1b0.pdf|
+enlace_del_xml|https://www.nubefact.com/cpe/8efeadb4-8c5b-4747-ac72-e57aba16b106-2d808ec6-6471-4481-bb92-96270e31c1b0.xml|
+enlace_del_cdr||

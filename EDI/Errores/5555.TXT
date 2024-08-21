@@ -1,0 +1,35 @@
+tipo_de_comprobante|2|
+serie|BBB1|
+numero|52|
+enlace|https://www.nubefact.com/cpe/bd3987be-14ef-4700-b6de-ddebe3987011-91f7bbb5-b66d-48be-afca-e95746ce72a5|
+aceptada_por_sunat|false|
+sunat_description||
+sunat_note||
+sunat_responsecode||
+sunat_soap_error||
+pdf_zip_base64||
+xml_zip_base64||
+cdr_zip_base64||
+cadena_para_codigo_qr|10096548104 | 03 | BBB1 | 000050 | 174.66 | 1,145.00 | 02/07/2020 | 1 | 47504619 | kvvYFSTbYXfHaJrn1mPWfu3JOf86+5/idTCAutEa8sQ= ||
+codigo_hash|kvvYFSTbYXfHaJrn1mPWfu3JOf86+5/idTCAutEa8sQ=|
+enlace_del_pdf|https://www.nubefact.com/cpe/bd3987be-14ef-4700-b6de-ddebe3987011-91f7bbb5-b66d-48be-afca-e95746ce72a5.pdf|
+enlace_del_xml|https://www.nubefact.com/cpe/bd3987be-14ef-4700-b6de-ddebe3987011-91f7bbb5-b66d-48be-afca-e95746ce72a5.xml|
+enlace_del_cdr||
+tipo_de_comprobante|2|
+serie|BBB1|
+numero|50|
+enlace|https://www.nubefact.com/cpe/9381407a-1bb0-4598-ac9d-542f7f344d67|
+aceptada_por_sunat|false|
+sunat_description||
+sunat_note||
+sunat_responsecode||
+sunat_soap_error||
+anulado|false|
+pdf_zip_base64||
+xml_zip_base64||
+cdr_zip_base64||
+cadena_para_codigo_qr|10709390428 | 03 | BBB1 | 000050 | 174.66 | 1,145.00 | 12/01/2023 | 1 | 47504619 | iV5tZ6cFRXKQRUfruAgFX0TLFLerMMKEAGePnb3ba8o= ||
+codigo_hash|iV5tZ6cFRXKQRUfruAgFX0TLFLerMMKEAGePnb3ba8o=|
+enlace_del_pdf|https://www.nubefact.com/cpe/9381407a-1bb0-4598-ac9d-542f7f344d67.pdf|
+enlace_del_xml|https://www.nubefact.com/cpe/9381407a-1bb0-4598-ac9d-542f7f344d67.xml|
+enlace_del_cdr||

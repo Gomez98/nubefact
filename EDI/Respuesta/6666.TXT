@@ -1,0 +1,18 @@
+tipo_de_comprobante|2|
+serie|BBB1|
+numero|80|
+enlace|https://www.nubefact.com/cpe/16adbe5b-8867-4082-a3cf-17cd808dccf1|
+aceptada_por_sunat|false|
+sunat_description||
+sunat_note||
+sunat_responsecode||
+sunat_soap_error||
+anulado|false|
+pdf_zip_base64||
+xml_zip_base64||
+cdr_zip_base64||
+cadena_para_codigo_qr|10709390428 | 03 | BBB1 | 000080 | 174.66 | 1,145.00 | 30/06/2023 | 1 | 47504619 | UWTVOupjvvGGXMZlo6nizhbs9s6sJUd/RBZkoxvMqgo= ||
+codigo_hash|UWTVOupjvvGGXMZlo6nizhbs9s6sJUd/RBZkoxvMqgo=|
+enlace_del_pdf|https://www.nubefact.com/cpe/16adbe5b-8867-4082-a3cf-17cd808dccf1.pdf|
+enlace_del_xml|https://www.nubefact.com/cpe/16adbe5b-8867-4082-a3cf-17cd808dccf1.xml|
+enlace_del_cdr||

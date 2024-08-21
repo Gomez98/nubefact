@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VoidedDocuments xmlns="urn:sunat:names:specification:ubl:peru:schema:xsd:VoidedDocuments-1" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2" xmlns:sac="urn:sunat:names:specification:ubl:peru:schema:xsd:SunatAggregateComponents-1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ext:UBLExtensions>
+    <ext:UBLExtension>
+      <ext:ExtensionContent>
+        <ds:Signature Id="NubeFacTSign">
+          <ds:SignedInfo>
+            <ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+            <ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+            <ds:Reference URI="">
+              <ds:Transforms>
+                <ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+              </ds:Transforms>
+              <ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+              <ds:DigestValue>lAZiGWcGSPDYPKLCXugQNgp0lGI=</ds:DigestValue>
+            </ds:Reference>
+          </ds:SignedInfo>
+          <ds:SignatureValue>IL5H3OsPQ++dfVtaaMQSUH/zvBaMiUFQoNkvxOJtOjtCOGjWOpjUq0iSUTSNYyNDvq1JqoBgsYmu3b2MDzFP2xCMswQK66cMCZmqFfgzPFldfWvLucy9oRDr9yzi8hbOKvZSjjkHYTJ0SC9dmHbiv/m4E3WBtLWQKAqHtuU7tPQUKllu7u5VI4G9qmPUWeAWsr6l3wuAW+SBK+FvWLr6XdfnbxKkJGxpP8Sx4ROxEccErEH3sWryd6kiUZpsOAhylni4GeYu/RET58FCPXEWu2mcKOqFdqVaCDHnLxHXD+/T14OcdPlH5AzQYNa7/JgumZ/ovDPHhS/j02SGjqAu7w==</ds:SignatureValue>
+          <ds:KeyInfo>
+            <ds:X509Data>
+              <ds:X509SubjectName>street=CAL. MARTIR JOSE OLAYA NRO. 129 INT. 903,emailAddress=sistemas@nubefact.com,CN=PFEIFFER PALOMINO GINGER KARIN,serialNumber=45604431,OU=FACTURA ELECTRONICA 20600695771,OU=Validated by Llama.pe ER,O=NUBEFACT S.A.,L=LIMA,C=PE</ds:X509SubjectName>
+              <ds:X509Certificate>
+MIIFOzCCBCOgAwIBAgIIdLLjLKEGaSUwDQYJKoZIhvcNAQELBQAwRjEkMCIGA1UE
+AwwbTGxhbWEucGUgU0hBMjU2IFN0YW5kYXJkIENBMREwDwYDVQQKDAhMTEFNQS5Q
+RTELMAkGA1UEBhMCUEUwHhcNMjAwNDE0MTc1NjU1WhcNMjMwNDE0MTc1NjAwWjCC
+ARYxMTAvBgNVBAkMKENBTC4gTUFSVElSIEpPU0UgT0xBWUEgTlJPLiAxMjkgSU5U
+LiA5MDMxJDAiBgkqhkiG9w0BCQEWFXNpc3RlbWFzQG51YmVmYWN0LmNvbTEnMCUG
+A1UEAwweUEZFSUZGRVIgUEFMT01JTk8gR0lOR0VSIEtBUklOMREwDwYDVQQFEwg0
+NTYwNDQzMTEoMCYGA1UECwwfRkFDVFVSQSBFTEVDVFJPTklDQSAyMDYwMDY5NTc3
+MTEhMB8GA1UECwwYVmFsaWRhdGVkIGJ5IExsYW1hLnBlIEVSMRYwFAYDVQQKDA1O
+VUJFRkFDVCBTLkEuMQ0wCwYDVQQHDARMSU1BMQswCQYDVQQGEwJQRTCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBALO8BHxam6t+siDVrzA4DGvt/0bG4L8h
+YGMxHcFk9Mzv8GoqO6JDzKcSJU0efICJxnU0oJuODKpHmJNyqIwxlWsQq5nnaUZ1
+/u+DAUF7X8wAbtFx/n52j+g4HvDbsjaabprhFYkx7zvsmhIL7gTe6o++oM3757Vl
+cuWCXpjCM674bUYVwJ/619pePnSKlJkLGhbGsAkOYpotpS9A8L2/pVXMOwRHxL4g
+kqTY3u8YqcD2yVJ4NloG1kOtFBh1xbGALVbx4SQCnX8y7FASpp2iirb0r6nwyCuW
+5WS0YVwlj1JwR6cZC9t7aCNDhGN8VJGKlf3RbXncIzkTMgTHdlXzcZcCAwEAAaOC
+AVkwggFVMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUXYhbretl+/5oouTZbz1X
+cqLvK5kwMAYIKwYBBQUHAQEEJDAiMCAGCCsGAQUFBzABhhRodHRwOi8vb2NzcC5s
+bGFtYS5wZTAgBgNVHREEGTAXgRVzaXN0ZW1hc0BudWJlZmFjdC5jb20wRgYDVR0g
+BD8wPTA7Bg0rBgEEAYOXdwABAAIBMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vbGxh
+bWEucGUvcmVwb3NpdG9yeS8wHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwME
+MDoGA1UdHwQzMDEwL6AtoCuGKWh0dHA6Ly9jcmwubGxhbWEucGUvbGxhbWFwZXN0
+YW5kYXJkY2EuY3JsMB0GA1UdDgQWBBRX7i9qbVyzQpVtsGoTSazXSh93NDAOBgNV
+HQ8BAf8EBAMCBsAwDQYJKoZIhvcNAQELBQADggEBALu00JYbR68FtbsZYAK8yXrY
+ZLuvALtRJ+b7HzyajWKDgCs8l2CqZjhMsVJlr7KEmeN0zaMcdXAZs/wnp+GtawsX
+YK+KDNqXs2jy5Renr1FV/tCplmJXzK/jvBXpObiMApigp/6JGftLvQoQ4qKKyym0
+c2GQ6ILaE9HG1YfAaj0eUDmDIC1y7V94nqLdFq6ubzzjCRScN3kgPdzkV9USeAZ7
+07mDcM1HpgoWnttglNNiqybXqBSpdWE+aE7zbyz5QT37wE75bzNcaPO5F8YxFk9B
+uPwJmUQ1/QO44yKVUVEcNYbKydH2GNkcQ88daSzCpI//ezNpSWfuZ50TLtFVsug=
+
+</ds:X509Certificate>
+            </ds:X509Data>
+          </ds:KeyInfo>
+        </ds:Signature>
+      </ext:ExtensionContent>
+    </ext:UBLExtension>
+  </ext:UBLExtensions>
+  <cbc:UBLVersionID>2.0</cbc:UBLVersionID>
+  <cbc:CustomizationID>1.0</cbc:CustomizationID>
+  <cbc:ID>RA-20200625-1</cbc:ID>
+  <cbc:ReferenceDate>2020-06-24</cbc:ReferenceDate>
+  <cbc:IssueDate>2020-06-25</cbc:IssueDate>
+  <cac:Signature>
+    <cbc:ID>10096548104</cbc:ID>
+    <cac:SignatoryParty>
+      <cac:PartyIdentification>
+        <cbc:ID>10096548104</cbc:ID>
+      </cac:PartyIdentification>
+      <cac:PartyName>
+        <cbc:Name>GOMEZ MENDOZA MIGUEL ANGEL</cbc:Name>
+      </cac:PartyName>
+    </cac:SignatoryParty>
+    <cac:DigitalSignatureAttachment>
+      <cac:ExternalReference>
+        <cbc:URI>10096548104</cbc:URI>
+      </cac:ExternalReference>
+    </cac:DigitalSignatureAttachment>
+  </cac:Signature>
+  <cac:AccountingSupplierParty>
+    <cbc:CustomerAssignedAccountID>10096548104</cbc:CustomerAssignedAccountID>
+    <cbc:AdditionalAccountID>6</cbc:AdditionalAccountID>
+    <cac:Party>
+      <cac:PartyLegalEntity>
+        <cbc:RegistrationName>GOMEZ MENDOZA MIGUEL ANGEL</cbc:RegistrationName>
+      </cac:PartyLegalEntity>
+    </cac:Party>
+  </cac:AccountingSupplierParty>
+  <sac:VoidedDocumentsLine>
+    <cbc:LineID>1</cbc:LineID>
+    <cbc:DocumentTypeCode>01</cbc:DocumentTypeCode>
+    <sac:DocumentSerialID>FFF1</sac:DocumentSerialID>
+    <sac:DocumentNumberID>39</sac:DocumentNumberID>
+    <sac:VoidReasonDescription>Error de Facturacion</sac:VoidReasonDescription>
+  </sac:VoidedDocumentsLine>
+</VoidedDocuments>

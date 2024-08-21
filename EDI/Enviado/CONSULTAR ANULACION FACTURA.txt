@@ -1,0 +1,4 @@
+operacion|consultar_anulacion|
+tipo_de_comprobante|1|
+serie|FFF1|
+numero|39|

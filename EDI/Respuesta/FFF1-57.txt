@@ -1,0 +1,17 @@
+tipo_de_comprobante|1|
+serie|FFF1|
+numero|57|
+enlace|https://www.nubefact.com/cpe/0cdba022-e432-462f-ab8a-647a220391ca-7bbf6e73-9707-4282-83f5-c2d8f69109af|
+aceptada_por_sunat|true|
+sunat_description|La Factura numero FFF1-57, ha sido aceptada|
+sunat_note||
+sunat_responsecode|0|
+sunat_soap_error||
+pdf_zip_base64||
+xml_zip_base64||
+cdr_zip_base64||
+cadena_para_codigo_qr|10096548104 | 01 | FFF1 | 000057 | 108.00 | 708.00 | 08/07/2020 | 6 | 20600695771 | FhqrOlNXoTc6pLGCWJZeI1i1papbOmEAUvvIe2C8xog= ||
+codigo_hash|FhqrOlNXoTc6pLGCWJZeI1i1papbOmEAUvvIe2C8xog=|
+enlace_del_pdf|https://www.nubefact.com/cpe/0cdba022-e432-462f-ab8a-647a220391ca-7bbf6e73-9707-4282-83f5-c2d8f69109af.pdf|
+enlace_del_xml|https://www.nubefact.com/cpe/0cdba022-e432-462f-ab8a-647a220391ca-7bbf6e73-9707-4282-83f5-c2d8f69109af.xml|
+enlace_del_cdr|https://www.nubefact.com/cpe/0cdba022-e432-462f-ab8a-647a220391ca-7bbf6e73-9707-4282-83f5-c2d8f69109af.cdr|

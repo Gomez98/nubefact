@@ -1,0 +1,17 @@
+tipo_de_comprobante|1|
+serie|FFF1|
+numero|60|
+enlace|https://www.nubefact.com/cpe/89784949-26f3-439c-807d-8c0eb196f9e8-972d54d6-fd53-4727-a4b4-826937a4f15a|
+aceptada_por_sunat|true|
+sunat_description|La Factura numero FFF1-60, ha sido aceptada|
+sunat_note||
+sunat_responsecode|0|
+sunat_soap_error||
+pdf_zip_base64||
+xml_zip_base64||
+cdr_zip_base64||
+cadena_para_codigo_qr|10096548104 | 01 | FFF1 | 000060 | 108.00 | 708.00 | 13/07/2020 | 6 | 20600695771 | c9QXzD1a104BUd88hvfbDOEzVMuRbSZgkAjBoAaLbF4= ||
+codigo_hash|c9QXzD1a104BUd88hvfbDOEzVMuRbSZgkAjBoAaLbF4=|
+enlace_del_pdf|https://www.nubefact.com/cpe/89784949-26f3-439c-807d-8c0eb196f9e8-972d54d6-fd53-4727-a4b4-826937a4f15a.pdf|
+enlace_del_xml|https://www.nubefact.com/cpe/89784949-26f3-439c-807d-8c0eb196f9e8-972d54d6-fd53-4727-a4b4-826937a4f15a.xml|
+enlace_del_cdr|https://www.nubefact.com/cpe/89784949-26f3-439c-807d-8c0eb196f9e8-972d54d6-fd53-4727-a4b4-826937a4f15a.cdr|

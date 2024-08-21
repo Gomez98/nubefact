@@ -1,0 +1,503 @@
+2020-07-08 17:54:21 INFO  ConsumingPost:27 - archivo  FFF1-57.txt enviado a nubefact
+2020-07-08 17:54:26 INFO  ConsumingPost:27 - tipo_de_comprobante|1|
+2020-07-08 17:54:26 INFO  ConsumingPost:27 - serie|FFF1|
+2020-07-08 17:54:26 INFO  ConsumingPost:27 - numero|57|
+2020-07-08 17:54:26 INFO  ConsumingPost:27 - enlace|https://www.nubefact.com/cpe/0cdba022-e432-462f-ab8a-647a220391ca-7bbf6e73-9707-4282-83f5-c2d8f69109af|
+2020-07-08 17:54:26 INFO  ConsumingPost:27 - aceptada_por_sunat|true|
+2020-07-08 17:54:26 INFO  ConsumingPost:27 - sunat_description|La Factura numero FFF1-57, ha sido aceptada|
+2020-07-08 17:54:26 INFO  ConsumingPost:27 - sunat_note||
+2020-07-08 17:54:26 INFO  ConsumingPost:27 - sunat_responsecode|0|
+2020-07-08 17:54:26 INFO  ConsumingPost:27 - sunat_soap_error||
+2020-07-08 17:54:26 INFO  ConsumingPost:27 - pdf_zip_base64||
+2020-07-08 17:54:26 INFO  ConsumingPost:27 - xml_zip_base64||
+2020-07-08 17:54:26 INFO  ConsumingPost:27 - cdr_zip_base64||
+2020-07-08 17:54:26 INFO  ConsumingPost:27 - cadena_para_codigo_qr|10096548104 | 01 | FFF1 | 000057 | 108.00 | 708.00 | 08/07/2020 | 6 | 20600695771 | FhqrOlNXoTc6pLGCWJZeI1i1papbOmEAUvvIe2C8xog= ||
+2020-07-08 17:54:26 INFO  ConsumingPost:27 - codigo_hash|FhqrOlNXoTc6pLGCWJZeI1i1papbOmEAUvvIe2C8xog=|
+2020-07-08 17:54:27 INFO  ConsumingPost:27 - enlace_del_pdf|https://www.nubefact.com/cpe/0cdba022-e432-462f-ab8a-647a220391ca-7bbf6e73-9707-4282-83f5-c2d8f69109af.pdf|
+2020-07-08 17:54:28 INFO  ConsumingPost:27 - enlace_del_xml|https://www.nubefact.com/cpe/0cdba022-e432-462f-ab8a-647a220391ca-7bbf6e73-9707-4282-83f5-c2d8f69109af.xml|
+2020-07-08 17:54:28 INFO  ConsumingPost:27 - enlace_del_cdr|https://www.nubefact.com/cpe/0cdba022-e432-462f-ab8a-647a220391ca-7bbf6e73-9707-4282-83f5-c2d8f69109af.cdr|
+2020-07-08 17:54:28 INFO  ConsumingPost:27 - Archivo FFF1-57.txt se ha desplazado a Enviado
+2020-07-13 10:59:32 INFO  ConsumingPost:27 - archivo  FFF1-57.txt enviado a nubefact
+2020-07-13 10:59:34 ERROR ConsumingPost:21 - errors|Fecha de emisión La fecha del documento debe ser la fecha de HOY|
+2020-07-13 10:59:34 INFO  ConsumingPost:27 - Archivo FFF1-57.txt erroneo se ha desplazado a Errores
+2020-07-13 11:00:44 INFO  ConsumingPost:27 - archivo  FFF1-58.txt enviado a nubefact
+2020-07-13 11:00:45 ERROR ConsumingPost:21 - errors|Fecha de emisión La fecha del documento debe ser la fecha de HOY|
+2020-07-13 11:00:45 INFO  ConsumingPost:27 - Archivo FFF1-58.txt erroneo se ha desplazado a Errores
+2020-07-13 11:00:45 INFO  ConsumingPost:27 - archivo  FFF1-59.txt enviado a nubefact
+2020-07-13 11:02:02 INFO  ConsumingPost:27 - archivo  FFF1-59.txt enviado a nubefact
+2020-07-13 11:02:04 ERROR ConsumingPost:21 - errors|Fecha de emisión La fecha del documento debe ser la fecha de HOY|
+2020-07-13 11:02:04 INFO  ConsumingPost:27 - Archivo FFF1-59.txt erroneo se ha desplazado a Errores
+2020-07-13 11:02:39 INFO  ConsumingPost:27 - archivo  FFF1-58.txt enviado a nubefact
+2020-07-13 11:02:41 ERROR ConsumingPost:21 - errors|Fecha de emisión La fecha del documento debe ser la fecha de HOY|
+2020-07-13 11:02:41 INFO  ConsumingPost:27 - Archivo FFF1-58.txt erroneo se ha desplazado a Errores
+2020-07-13 11:02:41 INFO  ConsumingPost:27 - archivo  FFF1-59.txt enviado a nubefact
+2020-07-13 11:10:14 INFO  ConsumingPost:27 - archivo  FFF1-58.txt enviado a nubefact
+2020-07-13 11:10:17 ERROR ConsumingPost:21 - errors|Fecha de emisión La fecha del documento debe ser la fecha de HOY|
+2020-07-13 11:10:17 INFO  ConsumingPost:27 - Archivo FFF1-58.txt erroneo se ha desplazado a Errores
+2020-07-13 11:10:17 INFO  ConsumingPost:27 - archivo  FFF1-59.txt enviado a nubefact
+2020-07-13 11:14:13 INFO  ConsumingPost:27 - archivo  FFF1-59.txt enviado a nubefact
+2020-07-13 11:14:17 ERROR ConsumingPost:21 - errors|Fecha de emisión La fecha del documento debe ser la fecha de HOY|
+2020-07-13 11:14:17 INFO  ConsumingPost:27 - Archivo FFF1-59.txt erroneo se ha desplazado a Errores
+2020-07-13 11:14:57 INFO  ConsumingPost:27 - archivo  FFF1-58.txt enviado a nubefact
+2020-07-13 11:14:59 ERROR ConsumingPost:21 - errors|Fecha de emisión La fecha del documento debe ser la fecha de HOY|
+2020-07-13 11:14:59 INFO  ConsumingPost:27 - Archivo FFF1-58.txt erroneo se ha desplazado a Errores
+2020-07-13 11:14:59 INFO  ConsumingPost:27 - archivo  FFF1-59.txt enviado a nubefact
+2020-07-13 11:18:19 INFO  ConsumingPost:27 - archivo  FFF1-58.txt enviado a nubefact
+2020-07-13 11:18:22 ERROR ConsumingPost:21 - errors|Fecha de emisión La fecha del documento debe ser la fecha de HOY|
+2020-07-13 11:18:22 INFO  ConsumingPost:27 - Archivo FFF1-58.txt erroneo se ha desplazado a Errores
+2020-07-13 11:18:22 INFO  ConsumingPost:27 - archivo  FFF1-59.txt enviado a nubefact
+2020-07-13 11:19:57 INFO  ConsumingPost:27 - archivo  FFF1-58.txt enviado a nubefact
+2020-07-13 11:19:59 ERROR ConsumingPost:21 - errors|Fecha de emisión La fecha del documento debe ser la fecha de HOY|
+2020-07-13 11:19:59 INFO  ConsumingPost:27 - Archivo FFF1-58.txt erroneo se ha desplazado a Errores
+2020-07-13 11:19:59 INFO  ConsumingPost:27 - archivo  FFF1-59.txt enviado a nubefact
+2020-07-13 11:20:45 INFO  ConsumingPost:27 - archivo  FFF1-58.txt enviado a nubefact
+2020-07-13 11:20:47 ERROR ConsumingPost:21 - errors|Fecha de emisión La fecha del documento debe ser la fecha de HOY|
+2020-07-13 11:20:47 INFO  ConsumingPost:27 - Archivo FFF1-58.txt erroneo se ha desplazado a Errores
+2020-07-13 11:20:47 INFO  ConsumingPost:27 - archivo  FFF1-59.txt enviado a nubefact
+2020-07-13 11:31:13 INFO  ConsumingPost:27 - archivo  FFF1-58.txt enviado a nubefact
+2020-07-13 11:31:16 ERROR ConsumingPost:21 - errors|Fecha de emisión La fecha del documento debe ser la fecha de HOY|
+2020-07-13 11:31:16 INFO  ConsumingPost:27 - Archivo FFF1-58.txt erroneo se ha desplazado a Errores
+2020-07-13 11:31:16 INFO  ConsumingPost:27 - archivo  FFF1-59.txt enviado a nubefact
+2020-07-13 11:33:01 INFO  ConsumingPost:27 - archivo  FFF1-58.txt enviado a nubefact
+2020-07-13 11:33:03 ERROR ConsumingPost:21 - errors|Fecha de emisión La fecha del documento debe ser la fecha de HOY|
+2020-07-13 11:33:03 INFO  ConsumingPost:27 - Archivo FFF1-58.txt erroneo se ha desplazado a Errores
+2020-07-13 11:33:03 INFO  ConsumingPost:27 - archivo  FFF1-59.txt enviado a nubefact
+2020-07-13 11:33:04 ERROR ConsumingPost:21 - errors|Fecha de emisión La fecha del documento debe ser la fecha de HOY|
+2020-07-13 11:33:04 INFO  ConsumingPost:27 - Archivo FFF1-59.txt erroneo se ha desplazado a Errores
+2020-07-13 11:33:54 INFO  ConsumingPost:27 - archivo  FFF1-58.txt enviado a nubefact
+2020-07-13 11:33:56 ERROR ConsumingPost:21 - errors|Fecha de emisión La fecha del documento debe ser la fecha de HOY|
+2020-07-13 11:33:56 INFO  ConsumingPost:27 - Archivo FFF1-58.txt erroneo se ha desplazado a Errores
+2020-07-13 11:33:56 INFO  ConsumingPost:27 - archivo  FFF1-59.txt enviado a nubefact
+2020-07-13 11:33:56 ERROR ConsumingPost:21 - errors|Fecha de emisión La fecha del documento debe ser la fecha de HOY|
+2020-07-13 11:33:56 INFO  ConsumingPost:27 - Archivo FFF1-59.txt erroneo se ha desplazado a Errores
+2020-07-13 11:33:56 INFO  ConsumingPost:27 - archivo  FFF1-60.txt enviado a nubefact
+2020-07-13 11:33:57 ERROR ConsumingPost:21 - errors|Fecha de emisión La fecha del documento debe ser la fecha de HOY|
+2020-07-13 11:33:57 INFO  ConsumingPost:27 - Archivo FFF1-60.txt erroneo se ha desplazado a Errores
+2020-07-13 11:38:37 INFO  ConsumingPost:27 - archivo  FFF1-58.txt enviado a nubefact
+2020-07-13 11:38:41 INFO  ConsumingPost:27 - tipo_de_comprobante|1|
+2020-07-13 11:38:41 INFO  ConsumingPost:27 - serie|FFF1|
+2020-07-13 11:38:41 INFO  ConsumingPost:27 - numero|58|
+2020-07-13 11:38:41 INFO  ConsumingPost:27 - enlace|https://www.nubefact.com/cpe/aba42619-5cbf-4287-b0c7-5f6db29161df-7fad9ade-4b6b-4438-9416-d6a77aae2bff|
+2020-07-13 11:38:41 INFO  ConsumingPost:27 - aceptada_por_sunat|true|
+2020-07-13 11:38:41 INFO  ConsumingPost:27 - sunat_description|La Factura numero FFF1-58, ha sido aceptada|
+2020-07-13 11:38:41 INFO  ConsumingPost:27 - sunat_note||
+2020-07-13 11:38:41 INFO  ConsumingPost:27 - sunat_responsecode|0|
+2020-07-13 11:38:41 INFO  ConsumingPost:27 - sunat_soap_error||
+2020-07-13 11:38:41 INFO  ConsumingPost:27 - pdf_zip_base64||
+2020-07-13 11:38:41 INFO  ConsumingPost:27 - xml_zip_base64||
+2020-07-13 11:38:41 INFO  ConsumingPost:27 - cdr_zip_base64||
+2020-07-13 11:38:41 INFO  ConsumingPost:27 - cadena_para_codigo_qr|10096548104 | 01 | FFF1 | 000058 | 108.00 | 708.00 | 13/07/2020 | 6 | 20600695771 | crhPtQLyAcEE0FkWV32egrH7ja3Y+VEBM4t0aR3VoJU= ||
+2020-07-13 11:38:41 INFO  ConsumingPost:27 - codigo_hash|crhPtQLyAcEE0FkWV32egrH7ja3Y+VEBM4t0aR3VoJU=|
+2020-07-13 11:38:43 INFO  ConsumingPost:27 - enlace_del_pdf|https://www.nubefact.com/cpe/aba42619-5cbf-4287-b0c7-5f6db29161df-7fad9ade-4b6b-4438-9416-d6a77aae2bff.pdf|
+2020-07-13 11:38:44 INFO  ConsumingPost:27 - enlace_del_xml|https://www.nubefact.com/cpe/aba42619-5cbf-4287-b0c7-5f6db29161df-7fad9ade-4b6b-4438-9416-d6a77aae2bff.xml|
+2020-07-13 11:38:44 INFO  ConsumingPost:27 - enlace_del_cdr|https://www.nubefact.com/cpe/aba42619-5cbf-4287-b0c7-5f6db29161df-7fad9ade-4b6b-4438-9416-d6a77aae2bff.cdr|
+2020-07-13 11:38:44 INFO  ConsumingPost:27 - Archivo FFF1-58.txt se ha desplazado a Enviado
+2020-07-13 11:38:44 INFO  ConsumingPost:27 - archivo  FFF1-59.txt enviado a nubefact
+2020-07-13 11:38:47 INFO  ConsumingPost:27 - tipo_de_comprobante|1|
+2020-07-13 11:38:47 INFO  ConsumingPost:27 - serie|FFF1|
+2020-07-13 11:38:47 INFO  ConsumingPost:27 - numero|59|
+2020-07-13 11:38:47 INFO  ConsumingPost:27 - enlace|https://www.nubefact.com/cpe/01d7d7f4-5c52-448e-922d-0c3d178885cc-b9eaec05-9a5a-495f-a6f4-aeaa67dd208a|
+2020-07-13 11:38:47 INFO  ConsumingPost:27 - aceptada_por_sunat|true|
+2020-07-13 11:38:47 INFO  ConsumingPost:27 - sunat_description|La Factura numero FFF1-59, ha sido aceptada|
+2020-07-13 11:38:47 INFO  ConsumingPost:27 - sunat_note||
+2020-07-13 11:38:47 INFO  ConsumingPost:27 - sunat_responsecode|0|
+2020-07-13 11:38:47 INFO  ConsumingPost:27 - sunat_soap_error||
+2020-07-13 11:38:47 INFO  ConsumingPost:27 - pdf_zip_base64||
+2020-07-13 11:38:47 INFO  ConsumingPost:27 - xml_zip_base64||
+2020-07-13 11:38:47 INFO  ConsumingPost:27 - cdr_zip_base64||
+2020-07-13 11:38:47 INFO  ConsumingPost:27 - cadena_para_codigo_qr|10096548104 | 01 | FFF1 | 000059 | 108.00 | 708.00 | 13/07/2020 | 6 | 20600695771 | jAY4nAE0gOS8IUuFQX8ylH442nm91zA3XBueZB88up4= ||
+2020-07-13 11:38:47 INFO  ConsumingPost:27 - codigo_hash|jAY4nAE0gOS8IUuFQX8ylH442nm91zA3XBueZB88up4=|
+2020-07-13 11:38:49 INFO  ConsumingPost:27 - enlace_del_pdf|https://www.nubefact.com/cpe/01d7d7f4-5c52-448e-922d-0c3d178885cc-b9eaec05-9a5a-495f-a6f4-aeaa67dd208a.pdf|
+2020-07-13 11:38:49 INFO  ConsumingPost:27 - enlace_del_xml|https://www.nubefact.com/cpe/01d7d7f4-5c52-448e-922d-0c3d178885cc-b9eaec05-9a5a-495f-a6f4-aeaa67dd208a.xml|
+2020-07-13 11:38:49 INFO  ConsumingPost:27 - enlace_del_cdr|https://www.nubefact.com/cpe/01d7d7f4-5c52-448e-922d-0c3d178885cc-b9eaec05-9a5a-495f-a6f4-aeaa67dd208a.cdr|
+2020-07-13 11:38:49 INFO  ConsumingPost:27 - Archivo FFF1-59.txt se ha desplazado a Enviado
+2020-07-13 11:38:49 INFO  ConsumingPost:27 - archivo  FFF1-60.txt enviado a nubefact
+2020-07-13 11:38:52 INFO  ConsumingPost:27 - tipo_de_comprobante|1|
+2020-07-13 11:38:52 INFO  ConsumingPost:27 - serie|FFF1|
+2020-07-13 11:38:52 INFO  ConsumingPost:27 - numero|60|
+2020-07-13 11:38:52 INFO  ConsumingPost:27 - enlace|https://www.nubefact.com/cpe/89784949-26f3-439c-807d-8c0eb196f9e8-972d54d6-fd53-4727-a4b4-826937a4f15a|
+2020-07-13 11:38:52 INFO  ConsumingPost:27 - aceptada_por_sunat|true|
+2020-07-13 11:38:52 INFO  ConsumingPost:27 - sunat_description|La Factura numero FFF1-60, ha sido aceptada|
+2020-07-13 11:38:52 INFO  ConsumingPost:27 - sunat_note||
+2020-07-13 11:38:52 INFO  ConsumingPost:27 - sunat_responsecode|0|
+2020-07-13 11:38:52 INFO  ConsumingPost:27 - sunat_soap_error||
+2020-07-13 11:38:52 INFO  ConsumingPost:27 - pdf_zip_base64||
+2020-07-13 11:38:52 INFO  ConsumingPost:27 - xml_zip_base64||
+2020-07-13 11:38:52 INFO  ConsumingPost:27 - cdr_zip_base64||
+2020-07-13 11:38:52 INFO  ConsumingPost:27 - cadena_para_codigo_qr|10096548104 | 01 | FFF1 | 000060 | 108.00 | 708.00 | 13/07/2020 | 6 | 20600695771 | c9QXzD1a104BUd88hvfbDOEzVMuRbSZgkAjBoAaLbF4= ||
+2020-07-13 11:38:52 INFO  ConsumingPost:27 - codigo_hash|c9QXzD1a104BUd88hvfbDOEzVMuRbSZgkAjBoAaLbF4=|
+2020-07-13 11:38:54 INFO  ConsumingPost:27 - enlace_del_pdf|https://www.nubefact.com/cpe/89784949-26f3-439c-807d-8c0eb196f9e8-972d54d6-fd53-4727-a4b4-826937a4f15a.pdf|
+2020-07-13 11:38:56 INFO  ConsumingPost:27 - enlace_del_xml|https://www.nubefact.com/cpe/89784949-26f3-439c-807d-8c0eb196f9e8-972d54d6-fd53-4727-a4b4-826937a4f15a.xml|
+2020-07-13 11:38:56 INFO  ConsumingPost:27 - enlace_del_cdr|https://www.nubefact.com/cpe/89784949-26f3-439c-807d-8c0eb196f9e8-972d54d6-fd53-4727-a4b4-826937a4f15a.cdr|
+2020-07-13 11:38:56 INFO  ConsumingPost:27 - Archivo FFF1-60.txt se ha desplazado a Enviado
+2023-01-12 14:59:23 INFO  ConsumingPost:26 - archivo  3333.TXT enviado a nubefact
+2023-01-12 14:59:26 ERROR ConsumingPost:20 - errors|Fecha de emisión La fecha del documento debe ser la fecha de HOY|
+2023-01-12 14:59:26 INFO  ConsumingPost:26 - Archivo 3333.TXT erroneo se ha desplazado a Errores
+2023-01-12 15:01:16 INFO  ConsumingPost:26 - archivo  3333.TXT enviado a nubefact
+2023-01-12 15:01:18 INFO  ConsumingPost:26 - tipo_de_comprobante|2|
+2023-01-12 15:01:18 INFO  ConsumingPost:26 - serie|BBB1|
+2023-01-12 15:01:18 INFO  ConsumingPost:26 - numero|50|
+2023-01-12 15:01:18 INFO  ConsumingPost:26 - enlace|https://www.nubefact.com/cpe/9381407a-1bb0-4598-ac9d-542f7f344d67|
+2023-01-12 15:01:18 INFO  ConsumingPost:26 - aceptada_por_sunat|false|
+2023-01-12 15:01:18 INFO  ConsumingPost:26 - sunat_description||
+2023-01-12 15:01:18 INFO  ConsumingPost:26 - sunat_note||
+2023-01-12 15:01:18 INFO  ConsumingPost:26 - sunat_responsecode||
+2023-01-12 15:01:18 INFO  ConsumingPost:26 - sunat_soap_error||
+2023-01-12 15:01:18 INFO  ConsumingPost:26 - anulado|false|
+2023-01-12 15:01:18 INFO  ConsumingPost:26 - pdf_zip_base64||
+2023-01-12 15:01:18 INFO  ConsumingPost:26 - xml_zip_base64||
+2023-01-12 15:01:18 INFO  ConsumingPost:26 - cdr_zip_base64||
+2023-01-12 15:01:18 INFO  ConsumingPost:26 - cadena_para_codigo_qr|10709390428 | 03 | BBB1 | 000050 | 174.66 | 1,145.00 | 12/01/2023 | 1 | 47504619 | iV5tZ6cFRXKQRUfruAgFX0TLFLerMMKEAGePnb3ba8o= ||
+2023-01-12 15:01:18 INFO  ConsumingPost:26 - codigo_hash|iV5tZ6cFRXKQRUfruAgFX0TLFLerMMKEAGePnb3ba8o=|
+2023-01-12 15:01:19 INFO  ConsumingPost:26 - enlace_del_pdf|https://www.nubefact.com/cpe/9381407a-1bb0-4598-ac9d-542f7f344d67.pdf|
+2023-01-12 15:01:19 INFO  ConsumingPost:26 - enlace_del_xml|https://www.nubefact.com/cpe/9381407a-1bb0-4598-ac9d-542f7f344d67.xml|
+2023-01-12 15:01:19 WARN  ConsumingPost:29 - java.net.MalformedURLException: no protocol: 
+2023-01-12 15:01:19 INFO  ConsumingPost:26 - enlace_del_cdr||
+2023-01-12 15:01:19 INFO  ConsumingPost:26 - Archivo 3333.TXT se ha desplazado a Enviado
+2023-01-12 15:28:40 INFO  ConsumingPost:26 - archivo  3333.TXT enviado a nubefact
+2023-01-12 15:28:41 ERROR ConsumingPost:20 - errors|Este documento ya existe en NubeFacT|
+2023-01-12 15:28:41 INFO  ConsumingPost:26 - Archivo 3333.TXT erroneo se ha desplazado a Errores
+2023-01-12 15:32:23 INFO  ConsumingPost:26 - archivo  4444.TXT enviado a nubefact
+2023-01-12 15:33:51 INFO  ConsumingPost:26 - tipo_de_comprobante|2|
+2023-01-12 15:34:16 INFO  ConsumingPost:26 - serie|BBB1|
+2023-01-12 15:34:18 INFO  ConsumingPost:26 - numero|51|
+2023-01-12 15:34:27 INFO  ConsumingPost:26 - enlace|https://www.nubefact.com/cpe/fcf35414-9e88-4494-9f36-bdf31d770bf2|
+2023-01-12 15:34:28 INFO  ConsumingPost:26 - aceptada_por_sunat|false|
+2023-01-12 15:34:29 INFO  ConsumingPost:26 - sunat_description||
+2023-01-12 15:34:30 INFO  ConsumingPost:26 - sunat_note||
+2023-01-12 15:34:31 INFO  ConsumingPost:26 - sunat_responsecode||
+2023-01-12 15:34:31 INFO  ConsumingPost:26 - sunat_soap_error||
+2023-01-12 15:34:32 INFO  ConsumingPost:26 - anulado|false|
+2023-01-12 15:34:33 INFO  ConsumingPost:26 - pdf_zip_base64||
+2023-01-12 15:34:34 INFO  ConsumingPost:26 - xml_zip_base64||
+2023-01-12 15:34:34 INFO  ConsumingPost:26 - cdr_zip_base64||
+2023-01-12 15:34:37 INFO  ConsumingPost:26 - cadena_para_codigo_qr|10709390428 | 03 | BBB1 | 000051 | 174.66 | 1,145.00 | 12/01/2023 | 1 | 47504619 | H0IOPoCiumK8fXEsLINoaCwpkHYD/UdqbaJ3xPuFjrY= ||
+2023-01-12 15:34:42 INFO  ConsumingPost:26 - codigo_hash|H0IOPoCiumK8fXEsLINoaCwpkHYD/UdqbaJ3xPuFjrY=|
+2023-01-12 15:35:12 INFO  ConsumingPost:26 - enlace_del_pdf|https://www.nubefact.com/cpe/fcf35414-9e88-4494-9f36-bdf31d770bf2.pdf|
+2023-01-12 15:35:44 INFO  ConsumingPost:26 - enlace_del_xml|https://www.nubefact.com/cpe/fcf35414-9e88-4494-9f36-bdf31d770bf2.xml|
+2023-01-12 15:36:09 WARN  ConsumingPost:29 - java.net.MalformedURLException: no protocol: 
+2023-01-12 15:36:09 INFO  ConsumingPost:26 - enlace_del_cdr||
+2023-01-12 15:36:09 INFO  ConsumingPost:26 - Archivo 4444.TXT se ha desplazado a Enviado
+2023-01-12 15:43:36 INFO  ConsumingPost:26 - archivo  5555.TXT enviado a nubefact
+2023-01-12 15:43:37 ERROR ConsumingPost:20 - errors|El archivo enviado no cumple con el formato establecido|
+2023-01-12 15:43:37 INFO  ConsumingPost:26 - Archivo 5555.TXT erroneo se ha desplazado a Errores
+2023-01-12 15:44:58 INFO  ConsumingPost:26 - archivo  6666.TXT enviado a nubefact
+2023-01-12 15:45:00 INFO  ConsumingPost:26 - tipo_de_comprobante|2|
+2023-01-12 15:45:00 INFO  ConsumingPost:26 - serie|BBB1|
+2023-01-12 15:45:00 INFO  ConsumingPost:26 - numero|54|
+2023-01-12 15:45:00 INFO  ConsumingPost:26 - enlace|https://www.nubefact.com/cpe/fa21c07d-9de3-440d-8a4b-7b129ac3d5a7|
+2023-01-12 15:45:00 INFO  ConsumingPost:26 - aceptada_por_sunat|false|
+2023-01-12 15:45:00 INFO  ConsumingPost:26 - sunat_description||
+2023-01-12 15:45:00 INFO  ConsumingPost:26 - sunat_note||
+2023-01-12 15:45:00 INFO  ConsumingPost:26 - sunat_responsecode||
+2023-01-12 15:45:00 INFO  ConsumingPost:26 - sunat_soap_error||
+2023-01-12 15:45:00 INFO  ConsumingPost:26 - anulado|false|
+2023-01-12 15:45:00 INFO  ConsumingPost:26 - pdf_zip_base64||
+2023-01-12 15:45:00 INFO  ConsumingPost:26 - xml_zip_base64||
+2023-01-12 15:45:00 INFO  ConsumingPost:26 - cdr_zip_base64||
+2023-01-12 15:45:00 INFO  ConsumingPost:26 - cadena_para_codigo_qr|10709390428 | 03 | BBB1 | 000054 | 174.66 | 1,145.00 | 12/01/2023 | 1 | 47504619 | fZhbszEtycrGFdrrSMuLOoJ65J3tsa/wI2+/uXLmJ0k= ||
+2023-01-12 15:45:00 INFO  ConsumingPost:26 - codigo_hash|fZhbszEtycrGFdrrSMuLOoJ65J3tsa/wI2+/uXLmJ0k=|
+2023-01-12 15:45:02 INFO  ConsumingPost:26 - enlace_del_pdf|https://www.nubefact.com/cpe/fa21c07d-9de3-440d-8a4b-7b129ac3d5a7.pdf|
+2023-01-12 15:45:02 INFO  ConsumingPost:26 - enlace_del_xml|https://www.nubefact.com/cpe/fa21c07d-9de3-440d-8a4b-7b129ac3d5a7.xml|
+2023-01-12 15:45:02 WARN  ConsumingPost:29 - java.net.MalformedURLException: no protocol: 
+2023-01-12 15:45:02 INFO  ConsumingPost:26 - enlace_del_cdr||
+2023-01-12 15:45:02 INFO  ConsumingPost:26 - Archivo 6666.TXT se ha desplazado a Enviado
+2023-01-12 18:19:39 INFO  ConsumingPost:26 - Archivo 9999.json se ha desplazado a Enviado
+2023-01-17 16:30:48 INFO  ConsumingPost:26 - Archivo 9999.json se ha desplazado a Enviado
+2023-01-17 16:32:20 INFO  ConsumingPost:26 - archivo  11111.json consultando a nubefact
+2023-01-17 16:33:52 INFO  ConsumingPost:26 - archivo  11111.json consultando a nubefact
+2023-01-17 16:33:52 INFO  ConsumingPost:26 - {"tipo_de_comprobante": 7, "serie": "TTT1", "numero": 1, "enlace": "https://www.nubefact.com/guia/d89f1735-d206-40a5-86b1-70e49a204960", "aceptada_por_sunat": true, "sunat_description": "ACEPTADA", "sunat_note": null, "sunat_responsecode": "0", "sunat_soap_error": "", "pdf_zip_base64": null, "xml_zip_base64": null, "cdr_zip_base64": null, "cadena_para_codigo_qr": "https://url-test?hashqr=test", "enlace_del_pdf": "https://www.nubefact.com/guia/d89f1735-d206-40a5-86b1-70e49a204960.pdf", "enlace_del_xml": "https://www.nubefact.com/guia/d89f1735-d206-40a5-86b1-70e49a204960.xml", "enlace_del_cdr": "https://www.nubefact.com/guia/d89f1735-d206-40a5-86b1-70e49a204960.cdr"}
+2023-01-17 16:33:52 INFO  ConsumingPost:26 - Archivo 11111.json se ha desplazado a Enviado
+2023-01-17 16:55:12 INFO  ConsumingPost:26 - archivo  11111.json consultando a nubefact
+2023-01-17 16:55:12 INFO  ConsumingPost:26 - Archivo 11111.json se ha desplazado a Enviado
+2023-01-17 16:57:04 INFO  ConsumingPost:26 - archivo  11111.json consultando a nubefact
+2023-01-17 17:01:59 INFO  ConsumingPost:26 - archivo  11111.json consultando a nubefact
+2023-01-17 17:02:26 INFO  ConsumingPost:26 - Archivo 11111.json se ha desplazado a Enviado
+2023-01-17 17:06:26 INFO  ConsumingPost:26 - archivo  6666.TXT enviado a nubefact
+2023-01-17 17:06:29 INFO  ConsumingPost:26 - tipo_de_comprobante|2|
+2023-01-17 17:06:29 INFO  ConsumingPost:26 - Archivo 6666.TXT se ha desplazado a Enviado
+2023-01-17 17:06:29 INFO  ConsumingPost:26 - serie|BBB1|
+2023-01-17 17:06:29 WARN  ConsumingPost:29 - java.nio.file.NoSuchFileException: D:\integracionnubefac\EDI\PorEnviar\6666.TXT
+2023-01-17 17:06:29 INFO  ConsumingPost:26 - numero|90|
+2023-01-17 17:06:29 WARN  ConsumingPost:29 - java.nio.file.NoSuchFileException: D:\integracionnubefac\EDI\PorEnviar\6666.TXT
+2023-01-17 17:06:29 INFO  ConsumingPost:26 - enlace|https://www.nubefact.com/cpe/5c33dc4a-5ae7-4093-877b-db2b3b20a24a|
+2023-01-17 17:06:29 WARN  ConsumingPost:29 - java.nio.file.NoSuchFileException: D:\integracionnubefac\EDI\PorEnviar\6666.TXT
+2023-01-17 17:06:29 INFO  ConsumingPost:26 - aceptada_por_sunat|false|
+2023-01-17 17:06:29 WARN  ConsumingPost:29 - java.nio.file.NoSuchFileException: D:\integracionnubefac\EDI\PorEnviar\6666.TXT
+2023-01-17 17:06:29 INFO  ConsumingPost:26 - sunat_description||
+2023-01-17 17:06:29 WARN  ConsumingPost:29 - java.nio.file.NoSuchFileException: D:\integracionnubefac\EDI\PorEnviar\6666.TXT
+2023-01-17 17:06:29 INFO  ConsumingPost:26 - sunat_note||
+2023-01-17 17:06:29 WARN  ConsumingPost:29 - java.nio.file.NoSuchFileException: D:\integracionnubefac\EDI\PorEnviar\6666.TXT
+2023-01-17 17:06:29 INFO  ConsumingPost:26 - sunat_responsecode||
+2023-01-17 17:06:29 WARN  ConsumingPost:29 - java.nio.file.NoSuchFileException: D:\integracionnubefac\EDI\PorEnviar\6666.TXT
+2023-01-17 17:06:29 INFO  ConsumingPost:26 - sunat_soap_error||
+2023-01-17 17:06:29 WARN  ConsumingPost:29 - java.nio.file.NoSuchFileException: D:\integracionnubefac\EDI\PorEnviar\6666.TXT
+2023-01-17 17:06:29 INFO  ConsumingPost:26 - anulado|false|
+2023-01-17 17:06:29 WARN  ConsumingPost:29 - java.nio.file.NoSuchFileException: D:\integracionnubefac\EDI\PorEnviar\6666.TXT
+2023-01-17 17:06:29 INFO  ConsumingPost:26 - pdf_zip_base64||
+2023-01-17 17:06:29 WARN  ConsumingPost:29 - java.nio.file.NoSuchFileException: D:\integracionnubefac\EDI\PorEnviar\6666.TXT
+2023-01-17 17:06:29 INFO  ConsumingPost:26 - xml_zip_base64||
+2023-01-17 17:06:29 WARN  ConsumingPost:29 - java.nio.file.NoSuchFileException: D:\integracionnubefac\EDI\PorEnviar\6666.TXT
+2023-01-17 17:06:29 INFO  ConsumingPost:26 - cdr_zip_base64||
+2023-01-17 17:06:29 WARN  ConsumingPost:29 - java.nio.file.NoSuchFileException: D:\integracionnubefac\EDI\PorEnviar\6666.TXT
+2023-01-17 17:06:29 INFO  ConsumingPost:26 - cadena_para_codigo_qr|10709390428 | 03 | BBB1 | 000090 | 174.66 | 1,145.00 | 17/01/2023 | 1 | 47504619 | QrQkMo/Nx6Dtn7/wCkn94MIIubyouHYjtrIr05cB+8s= ||
+2023-01-17 17:06:29 WARN  ConsumingPost:29 - java.nio.file.NoSuchFileException: D:\integracionnubefac\EDI\PorEnviar\6666.TXT
+2023-01-17 17:06:29 INFO  ConsumingPost:26 - codigo_hash|QrQkMo/Nx6Dtn7/wCkn94MIIubyouHYjtrIr05cB+8s=|
+2023-01-17 17:06:29 WARN  ConsumingPost:29 - java.nio.file.NoSuchFileException: D:\integracionnubefac\EDI\PorEnviar\6666.TXT
+2023-01-17 17:06:30 INFO  ConsumingPost:26 - enlace_del_pdf|https://www.nubefact.com/cpe/5c33dc4a-5ae7-4093-877b-db2b3b20a24a.pdf|
+2023-01-17 17:06:30 WARN  ConsumingPost:29 - java.nio.file.NoSuchFileException: D:\integracionnubefac\EDI\PorEnviar\6666.TXT
+2023-01-17 17:06:31 INFO  ConsumingPost:26 - enlace_del_xml|https://www.nubefact.com/cpe/5c33dc4a-5ae7-4093-877b-db2b3b20a24a.xml|
+2023-01-17 17:06:31 WARN  ConsumingPost:29 - java.nio.file.NoSuchFileException: D:\integracionnubefac\EDI\PorEnviar\6666.TXT
+2023-01-17 17:06:31 INFO  ConsumingPost:26 - enlace_del_cdr||
+2023-01-17 17:06:31 WARN  ConsumingPost:29 - java.nio.file.NoSuchFileException: D:\integracionnubefac\EDI\PorEnviar\6666.TXT
+2023-01-17 17:09:03 INFO  ConsumingPost:26 - Archivo 9999.json se ha desplazado a Enviado
+2023-01-17 17:27:19 INFO  ConsumingPost:26 - Archivo 9999.json se ha desplazado a Enviado
+2023-01-17 17:35:34 INFO  ConsumingPost:26 - Archivo 9999.json se ha desplazado a Enviado
+2023-01-17 17:39:05 WARN  ConsumingPost:29 - Codigo respuesta: 400
+2023-01-17 17:49:27 INFO  ConsumingPost:26 - Archivo 9999.json se ha desplazado a Enviado
+2023-01-17 17:49:48 INFO  ConsumingPost:26 - archivo  11111.json consultando guia
+2023-01-17 17:49:48 INFO  ConsumingPost:26 - {"tipo_de_comprobante": 7, "serie": "TTT1", "numero": 1, "enlace": "https://www.nubefact.com/guia/d89f1735-d206-40a5-86b1-70e49a204960", "aceptada_por_sunat": true, "sunat_description": "ACEPTADA", "sunat_note": null, "sunat_responsecode": "0", "sunat_soap_error": "", "pdf_zip_base64": null, "xml_zip_base64": null, "cdr_zip_base64": null, "cadena_para_codigo_qr": "https://url-test?hashqr=test", "enlace_del_pdf": "https://www.nubefact.com/guia/d89f1735-d206-40a5-86b1-70e49a204960.pdf", "enlace_del_xml": "https://www.nubefact.com/guia/d89f1735-d206-40a5-86b1-70e49a204960.xml", "enlace_del_cdr": "https://www.nubefact.com/guia/d89f1735-d206-40a5-86b1-70e49a204960.cdr"}
+2023-01-17 18:06:44 INFO  ConsumingPost:26 - Archivo 11111.json se ha desplazado a Enviado
+2023-01-17 18:11:07 WARN  ConsumingPost:29 - Codigo respuesta: 400
+2023-01-17 18:12:19 INFO  ConsumingPost:26 - Archivo 9999.json se ha desplazado a Enviado
+2023-01-17 18:31:04 WARN  ConsumingPost:29 - Codigo respuesta: 400
+2023-01-17 18:31:05 INFO  ConsumingPost:26 - Archivo 9999.json erroneo se ha desplazado a Errores
+2023-01-17 18:35:28 WARN  ConsumingPost:29 - Codigo respuesta: 200
+2023-01-17 18:35:28 INFO  ConsumingPost:26 - Archivo 9999.json se ha desplazado a Enviado
+2023-01-17 18:36:20 INFO  ConsumingPost:26 - archivo  11111.json consultando guia
+2023-01-17 18:36:20 INFO  ConsumingPost:26 - {"tipo_de_comprobante": 7, "serie": "TTT1", "numero": 2, "enlace": "https://www.nubefact.com/guia/54e1ba01-e827-4a03-a467-a4433ca7d305", "aceptada_por_sunat": true, "sunat_description": "ACEPTADA", "sunat_note": null, "sunat_responsecode": "0", "sunat_soap_error": "", "pdf_zip_base64": null, "xml_zip_base64": null, "cdr_zip_base64": null, "cadena_para_codigo_qr": "https://url-test?hashqr=test", "enlace_del_pdf": "https://www.nubefact.com/guia/54e1ba01-e827-4a03-a467-a4433ca7d305.pdf", "enlace_del_xml": "https://www.nubefact.com/guia/54e1ba01-e827-4a03-a467-a4433ca7d305.xml", "enlace_del_cdr": "https://www.nubefact.com/guia/54e1ba01-e827-4a03-a467-a4433ca7d305.cdr"}
+2023-01-17 18:36:22 INFO  ConsumingPost:26 - Archivo 11111.json se ha desplazado a Enviado
+2023-01-17 18:54:57 INFO  ConsumingPost:26 - archivo  11111.json consultando guia
+2023-01-17 18:54:57 INFO  ConsumingPost:26 - {"tipo_de_comprobante": 7, "serie": "TTT1", "numero": 2, "enlace": "https://www.nubefact.com/guia/54e1ba01-e827-4a03-a467-a4433ca7d305", "aceptada_por_sunat": true, "sunat_description": "ACEPTADA", "sunat_note": null, "sunat_responsecode": "0", "sunat_soap_error": "", "pdf_zip_base64": null, "xml_zip_base64": null, "cdr_zip_base64": null, "cadena_para_codigo_qr": "https://url-test?hashqr=test", "enlace_del_pdf": "https://www.nubefact.com/guia/54e1ba01-e827-4a03-a467-a4433ca7d305.pdf", "enlace_del_xml": "https://www.nubefact.com/guia/54e1ba01-e827-4a03-a467-a4433ca7d305.xml", "enlace_del_cdr": "https://www.nubefact.com/guia/54e1ba01-e827-4a03-a467-a4433ca7d305.cdr"}
+2023-01-17 18:54:59 INFO  ConsumingPost:26 - Archivo 11111.json se ha desplazado a Enviado
+2023-01-17 18:56:23 WARN  ConsumingPost:29 - Codigo respuesta: 200
+2023-01-17 18:56:23 INFO  ConsumingPost:26 - Archivo 78787.json se ha desplazado a Enviado
+2023-01-17 18:57:13 INFO  ConsumingPost:26 - archivo  6666.TXT enviado a nubefact
+2023-01-17 18:57:16 INFO  ConsumingPost:26 - tipo_de_comprobante|2|
+2023-01-17 18:57:16 INFO  ConsumingPost:26 - Archivo 6666.TXT se ha desplazado a Enviado
+2023-01-17 18:57:16 INFO  ConsumingPost:26 - serie|BBB1|
+2023-01-17 18:57:16 WARN  ConsumingPost:29 - java.nio.file.NoSuchFileException: D:\integracionnubefac\EDI\PorEnviar\6666.TXT
+2023-01-17 18:57:16 INFO  ConsumingPost:26 - numero|19|
+2023-01-17 18:57:16 WARN  ConsumingPost:29 - java.nio.file.NoSuchFileException: D:\integracionnubefac\EDI\PorEnviar\6666.TXT
+2023-01-17 18:57:16 INFO  ConsumingPost:26 - enlace|https://www.nubefact.com/cpe/21fd5981-f015-4e4a-8e77-4a98ed303707|
+2023-01-17 18:57:16 WARN  ConsumingPost:29 - java.nio.file.NoSuchFileException: D:\integracionnubefac\EDI\PorEnviar\6666.TXT
+2023-01-17 18:57:16 INFO  ConsumingPost:26 - aceptada_por_sunat|false|
+2023-01-17 18:57:16 WARN  ConsumingPost:29 - java.nio.file.NoSuchFileException: D:\integracionnubefac\EDI\PorEnviar\6666.TXT
+2023-01-17 18:57:16 INFO  ConsumingPost:26 - sunat_description||
+2023-01-17 18:57:16 WARN  ConsumingPost:29 - java.nio.file.NoSuchFileException: D:\integracionnubefac\EDI\PorEnviar\6666.TXT
+2023-01-17 18:57:16 INFO  ConsumingPost:26 - sunat_note||
+2023-01-17 18:57:16 WARN  ConsumingPost:29 - java.nio.file.NoSuchFileException: D:\integracionnubefac\EDI\PorEnviar\6666.TXT
+2023-01-17 18:57:16 INFO  ConsumingPost:26 - sunat_responsecode||
+2023-01-17 18:57:16 WARN  ConsumingPost:29 - java.nio.file.NoSuchFileException: D:\integracionnubefac\EDI\PorEnviar\6666.TXT
+2023-01-17 18:57:16 INFO  ConsumingPost:26 - sunat_soap_error||
+2023-01-17 18:57:16 WARN  ConsumingPost:29 - java.nio.file.NoSuchFileException: D:\integracionnubefac\EDI\PorEnviar\6666.TXT
+2023-01-17 18:57:16 INFO  ConsumingPost:26 - anulado|false|
+2023-01-17 18:57:16 WARN  ConsumingPost:29 - java.nio.file.NoSuchFileException: D:\integracionnubefac\EDI\PorEnviar\6666.TXT
+2023-01-17 18:57:16 INFO  ConsumingPost:26 - pdf_zip_base64||
+2023-01-17 18:57:16 WARN  ConsumingPost:29 - java.nio.file.NoSuchFileException: D:\integracionnubefac\EDI\PorEnviar\6666.TXT
+2023-01-17 18:57:16 INFO  ConsumingPost:26 - xml_zip_base64||
+2023-01-17 18:57:16 WARN  ConsumingPost:29 - java.nio.file.NoSuchFileException: D:\integracionnubefac\EDI\PorEnviar\6666.TXT
+2023-01-17 18:57:16 INFO  ConsumingPost:26 - cdr_zip_base64||
+2023-01-17 18:57:16 WARN  ConsumingPost:29 - java.nio.file.NoSuchFileException: D:\integracionnubefac\EDI\PorEnviar\6666.TXT
+2023-01-17 18:57:16 INFO  ConsumingPost:26 - cadena_para_codigo_qr|10709390428 | 03 | BBB1 | 000019 | 174.66 | 1,145.00 | 17/01/2023 | 1 | 47504619 | wJGh9w0/L73mshuB3mUtTEfuS3vXUPWiolbJ8mIn4U4= ||
+2023-01-17 18:57:16 WARN  ConsumingPost:29 - java.nio.file.NoSuchFileException: D:\integracionnubefac\EDI\PorEnviar\6666.TXT
+2023-01-17 18:57:16 INFO  ConsumingPost:26 - codigo_hash|wJGh9w0/L73mshuB3mUtTEfuS3vXUPWiolbJ8mIn4U4=|
+2023-01-17 18:57:16 WARN  ConsumingPost:29 - java.nio.file.NoSuchFileException: D:\integracionnubefac\EDI\PorEnviar\6666.TXT
+2023-01-17 18:57:17 INFO  ConsumingPost:26 - enlace_del_pdf|https://www.nubefact.com/cpe/21fd5981-f015-4e4a-8e77-4a98ed303707.pdf|
+2023-01-17 18:57:17 WARN  ConsumingPost:29 - java.nio.file.NoSuchFileException: D:\integracionnubefac\EDI\PorEnviar\6666.TXT
+2023-01-17 18:57:17 INFO  ConsumingPost:26 - enlace_del_xml|https://www.nubefact.com/cpe/21fd5981-f015-4e4a-8e77-4a98ed303707.xml|
+2023-01-17 18:57:17 WARN  ConsumingPost:29 - java.nio.file.NoSuchFileException: D:\integracionnubefac\EDI\PorEnviar\6666.TXT
+2023-01-17 18:57:17 INFO  ConsumingPost:26 - enlace_del_cdr||
+2023-01-17 18:57:17 WARN  ConsumingPost:29 - java.nio.file.NoSuchFileException: D:\integracionnubefac\EDI\PorEnviar\6666.TXT
+2023-01-17 19:01:16 INFO  ConsumingPost:26 - archivo  6666.TXT enviado a nubefact
+2023-01-17 19:01:20 INFO  ConsumingPost:26 - tipo_de_comprobante|2|
+2023-01-17 19:01:20 INFO  ConsumingPost:26 - serie|BBB1|
+2023-01-17 19:01:20 INFO  ConsumingPost:26 - numero|32|
+2023-01-17 19:01:20 INFO  ConsumingPost:26 - enlace|https://www.nubefact.com/cpe/525577f6-cba3-4ed2-a963-63ff7b56b9b9|
+2023-01-17 19:01:20 INFO  ConsumingPost:26 - aceptada_por_sunat|false|
+2023-01-17 19:01:20 INFO  ConsumingPost:26 - sunat_description||
+2023-01-17 19:01:20 INFO  ConsumingPost:26 - sunat_note||
+2023-01-17 19:01:20 INFO  ConsumingPost:26 - sunat_responsecode||
+2023-01-17 19:01:20 INFO  ConsumingPost:26 - sunat_soap_error||
+2023-01-17 19:01:20 INFO  ConsumingPost:26 - anulado|false|
+2023-01-17 19:01:20 INFO  ConsumingPost:26 - pdf_zip_base64||
+2023-01-17 19:01:20 INFO  ConsumingPost:26 - xml_zip_base64||
+2023-01-17 19:01:20 INFO  ConsumingPost:26 - cdr_zip_base64||
+2023-01-17 19:01:20 INFO  ConsumingPost:26 - cadena_para_codigo_qr|10709390428 | 03 | BBB1 | 000032 | 174.66 | 1,145.00 | 17/01/2023 | 1 | 47504619 | 40gQdrEGQWmz32w5450PW///J2hMlglwbKwxz37jzcE= ||
+2023-01-17 19:01:20 INFO  ConsumingPost:26 - codigo_hash|40gQdrEGQWmz32w5450PW///J2hMlglwbKwxz37jzcE=|
+2023-01-17 19:01:22 INFO  ConsumingPost:26 - enlace_del_pdf|https://www.nubefact.com/cpe/525577f6-cba3-4ed2-a963-63ff7b56b9b9.pdf|
+2023-01-17 19:01:23 INFO  ConsumingPost:26 - enlace_del_xml|https://www.nubefact.com/cpe/525577f6-cba3-4ed2-a963-63ff7b56b9b9.xml|
+2023-01-17 19:01:23 INFO  ConsumingPost:26 - enlace_del_cdr||
+2023-01-17 19:01:23 INFO  ConsumingPost:26 - Archivo 6666.TXT se ha desplazado a Enviado
+2023-01-17 19:04:25 INFO  ConsumingPost:26 - archivo  6666.TXT enviado a nubefact
+2023-01-17 19:04:29 INFO  ConsumingPost:26 - tipo_de_comprobante|2|
+2023-01-17 19:04:29 INFO  ConsumingPost:26 - serie|BBB1|
+2023-01-17 19:04:29 INFO  ConsumingPost:26 - numero|62|
+2023-01-17 19:04:29 INFO  ConsumingPost:26 - enlace|https://www.nubefact.com/cpe/6f0ab442-c6f0-496d-9b8d-2bcb6cc3a5db|
+2023-01-17 19:04:29 INFO  ConsumingPost:26 - aceptada_por_sunat|false|
+2023-01-17 19:04:29 INFO  ConsumingPost:26 - sunat_description||
+2023-01-17 19:04:29 INFO  ConsumingPost:26 - sunat_note||
+2023-01-17 19:04:29 INFO  ConsumingPost:26 - sunat_responsecode||
+2023-01-17 19:04:29 INFO  ConsumingPost:26 - sunat_soap_error||
+2023-01-17 19:04:29 INFO  ConsumingPost:26 - anulado|false|
+2023-01-17 19:04:29 INFO  ConsumingPost:26 - pdf_zip_base64||
+2023-01-17 19:04:29 INFO  ConsumingPost:26 - xml_zip_base64||
+2023-01-17 19:04:29 INFO  ConsumingPost:26 - cdr_zip_base64||
+2023-01-17 19:04:29 INFO  ConsumingPost:26 - cadena_para_codigo_qr|10709390428 | 03 | BBB1 | 000062 | 174.66 | 1,145.00 | 17/01/2023 | 1 | 47504619 | bOAEnYQWlbtnz6ql+Nb1Wqx7cPlVfNadVSxKwLywa90= ||
+2023-01-17 19:04:29 INFO  ConsumingPost:26 - codigo_hash|bOAEnYQWlbtnz6ql+Nb1Wqx7cPlVfNadVSxKwLywa90=|
+2023-01-17 19:04:30 INFO  ConsumingPost:26 - enlace_del_pdf|https://www.nubefact.com/cpe/6f0ab442-c6f0-496d-9b8d-2bcb6cc3a5db.pdf|
+2023-01-17 19:04:31 INFO  ConsumingPost:26 - enlace_del_xml|https://www.nubefact.com/cpe/6f0ab442-c6f0-496d-9b8d-2bcb6cc3a5db.xml|
+2023-01-17 19:04:31 INFO  ConsumingPost:26 - enlace_del_cdr||
+2023-01-17 19:04:31 INFO  ConsumingPost:26 - Archivo 6666.TXT se ha desplazado a Enviado
+2023-01-17 19:07:06 INFO  ConsumingPost:26 - archivo  6666.TXT enviado a nubefact
+2023-01-17 19:07:11 INFO  ConsumingPost:26 - tipo_de_comprobante|2|
+2023-01-17 19:07:11 INFO  ConsumingPost:26 - serie|BBB1|
+2023-01-17 19:07:11 INFO  ConsumingPost:26 - numero|99|
+2023-01-17 19:07:11 INFO  ConsumingPost:26 - enlace|https://www.nubefact.com/cpe/8f2e1472-fd91-43f2-b14d-8ed3b9e29b53|
+2023-01-17 19:07:11 INFO  ConsumingPost:26 - aceptada_por_sunat|false|
+2023-01-17 19:07:11 INFO  ConsumingPost:26 - sunat_description||
+2023-01-17 19:07:11 INFO  ConsumingPost:26 - sunat_note||
+2023-01-17 19:07:11 INFO  ConsumingPost:26 - sunat_responsecode||
+2023-01-17 19:07:11 INFO  ConsumingPost:26 - sunat_soap_error||
+2023-01-17 19:07:11 INFO  ConsumingPost:26 - anulado|false|
+2023-01-17 19:07:11 INFO  ConsumingPost:26 - pdf_zip_base64||
+2023-01-17 19:07:11 INFO  ConsumingPost:26 - xml_zip_base64||
+2023-01-17 19:07:11 INFO  ConsumingPost:26 - cdr_zip_base64||
+2023-01-17 19:07:11 INFO  ConsumingPost:26 - cadena_para_codigo_qr|10709390428 | 03 | BBB1 | 000099 | 174.66 | 1,145.00 | 17/01/2023 | 1 | 47504619 | cV7wKukg9BBQc2ToLXtuDgmyNOBMOwhJNkz3iu5Zxdo= ||
+2023-01-17 19:07:11 INFO  ConsumingPost:26 - codigo_hash|cV7wKukg9BBQc2ToLXtuDgmyNOBMOwhJNkz3iu5Zxdo=|
+2023-01-17 19:07:13 INFO  ConsumingPost:26 - enlace_del_pdf|https://www.nubefact.com/cpe/8f2e1472-fd91-43f2-b14d-8ed3b9e29b53.pdf|
+2023-01-17 19:07:13 INFO  ConsumingPost:26 - enlace_del_xml|https://www.nubefact.com/cpe/8f2e1472-fd91-43f2-b14d-8ed3b9e29b53.xml|
+2023-01-17 19:07:13 INFO  ConsumingPost:26 - enlace_del_cdr||
+2023-01-17 19:07:13 INFO  ConsumingPost:26 - Archivo 6666.TXT se ha desplazado a Enviado
+2023-01-17 19:19:22 INFO  ConsumingPost:26 - archivo  6666.TXT enviado a nubefact
+2023-01-17 19:19:25 INFO  ConsumingPost:26 - tipo_de_comprobante|2|
+2023-01-17 19:19:25 INFO  ConsumingPost:26 - serie|BBB1|
+2023-01-17 19:19:25 INFO  ConsumingPost:26 - numero|55|
+2023-01-17 19:19:25 INFO  ConsumingPost:26 - enlace|https://www.nubefact.com/cpe/5dd330ef-74e6-4504-96d1-4127aace407b|
+2023-01-17 19:19:25 INFO  ConsumingPost:26 - aceptada_por_sunat|false|
+2023-01-17 19:19:25 INFO  ConsumingPost:26 - sunat_description||
+2023-01-17 19:19:25 INFO  ConsumingPost:26 - sunat_note||
+2023-01-17 19:19:25 INFO  ConsumingPost:26 - sunat_responsecode||
+2023-01-17 19:19:25 INFO  ConsumingPost:26 - sunat_soap_error||
+2023-01-17 19:19:25 INFO  ConsumingPost:26 - anulado|false|
+2023-01-17 19:19:25 INFO  ConsumingPost:26 - pdf_zip_base64||
+2023-01-17 19:19:25 INFO  ConsumingPost:26 - xml_zip_base64||
+2023-01-17 19:19:25 INFO  ConsumingPost:26 - cdr_zip_base64||
+2023-01-17 19:19:25 INFO  ConsumingPost:26 - cadena_para_codigo_qr|10709390428 | 03 | BBB1 | 000055 | 174.66 | 1,145.00 | 17/01/2023 | 1 | 47504619 | 1ot2qptXJ4Mg9bsxvudLTCsDSAZtx0bj/ylBri5oCkM= ||
+2023-01-17 19:19:25 INFO  ConsumingPost:26 - codigo_hash|1ot2qptXJ4Mg9bsxvudLTCsDSAZtx0bj/ylBri5oCkM=|
+2023-01-17 19:19:26 INFO  ConsumingPost:26 - enlace_del_pdf|https://www.nubefact.com/cpe/5dd330ef-74e6-4504-96d1-4127aace407b.pdf|
+2023-01-17 19:19:27 INFO  ConsumingPost:26 - enlace_del_xml|https://www.nubefact.com/cpe/5dd330ef-74e6-4504-96d1-4127aace407b.xml|
+2023-01-17 19:19:27 INFO  ConsumingPost:26 - enlace_del_cdr||
+2023-01-17 19:19:27 INFO  ConsumingPost:26 - Archivo 6666.TXT se ha desplazado a Enviado
+2023-01-17 19:23:42 INFO  ConsumingPost:26 - archivo  6666.TXT enviado a nubefact
+2023-01-17 19:23:48 INFO  ConsumingPost:26 - Archivo 6666.TXT se ha desplazado a Enviado
+2023-01-17 19:25:21 WARN  ConsumingPost:29 - Codigo respuesta: 200
+2023-01-17 19:25:21 INFO  ConsumingPost:26 - Archivo 78787.json se ha desplazado a Enviado
+2023-01-17 19:26:42 INFO  ConsumingPost:26 - archivo  11111.json consultando guia
+2023-01-17 19:26:42 INFO  ConsumingPost:26 - {"tipo_de_comprobante": 7, "serie": "TTT1", "numero": 4, "enlace": "https://www.nubefact.com/guia/d001b3b9-f86f-4952-91ed-ca4202c3fed0", "aceptada_por_sunat": true, "sunat_description": "ACEPTADA", "sunat_note": null, "sunat_responsecode": "0", "sunat_soap_error": "", "pdf_zip_base64": null, "xml_zip_base64": null, "cdr_zip_base64": null, "cadena_para_codigo_qr": "https://url-test?hashqr=test", "enlace_del_pdf": "https://www.nubefact.com/guia/d001b3b9-f86f-4952-91ed-ca4202c3fed0.pdf", "enlace_del_xml": "https://www.nubefact.com/guia/d001b3b9-f86f-4952-91ed-ca4202c3fed0.xml", "enlace_del_cdr": "https://www.nubefact.com/guia/d001b3b9-f86f-4952-91ed-ca4202c3fed0.cdr"}
+2023-01-17 19:26:45 INFO  ConsumingPost:26 - Archivo 11111.json se ha desplazado a Enviado
+2023-06-15 01:00:20 ERROR ConsumingPost:20 - Codigo respuesta: 400
+2023-06-15 01:00:20 INFO  ConsumingPost:26 - Archivo enviar-guia.json erroneo se ha desplazado a Errores
+2023-06-15 01:05:22 ERROR ConsumingPost:20 - Codigo respuesta: 400
+2023-06-15 01:05:22 INFO  ConsumingPost:26 - Archivo enviar-guia.json erroneo se ha desplazado a Errores
+2023-06-15 01:09:54 ERROR ConsumingPost:20 - Codigo respuesta: 400
+2023-06-15 01:09:54 INFO  ConsumingPost:26 - Archivo enviar-guia.json erroneo se ha desplazado a Errores
+2023-06-15 01:11:06 ERROR ConsumingPost:20 - Codigo respuesta: 400
+2023-06-15 01:11:06 INFO  ConsumingPost:26 - Archivo enviar-guia.json erroneo se ha desplazado a Errores
+2023-06-15 01:15:18 ERROR ConsumingPost:20 - Codigo respuesta: 400
+2023-06-15 01:15:18 INFO  ConsumingPost:26 - Archivo 78787.json erroneo se ha desplazado a Errores
+2023-06-15 01:16:50 ERROR ConsumingPost:20 - Codigo respuesta: 400
+2023-06-15 01:16:50 INFO  ConsumingPost:26 - Archivo 78787.json erroneo se ha desplazado a Errores
+2023-06-15 01:20:53 INFO  ConsumingPost:26 - Archivo 78787.json se ha desplazado a Enviado
+2023-06-15 01:22:55 ERROR ConsumingPost:20 - Codigo respuesta: 400
+2023-06-15 01:22:55 INFO  ConsumingPost:26 - Archivo enviar-guia.json erroneo se ha desplazado a Errores
+2023-06-15 01:23:58 INFO  ConsumingPost:26 - Archivo enviar-guia.json se ha desplazado a Enviado
+2023-06-15 01:26:01 INFO  ConsumingPost:26 - Archivo enviar-guia.json se ha desplazado a Enviado
+2023-06-15 01:27:12 INFO  ConsumingPost:26 - Archivo  descargar-guia.json consultando guia
+2023-06-15 01:27:12 INFO  ConsumingPost:26 - {"errors":"Archivo JSON corrupto o mal construido, revisa que NO tenga caracteres escondidos, saltos de linea, Etc. Visita www.jsonlint.com para comprobar que el JSON que estás enviando es correcto.","codigo":20}
+2023-06-15 01:29:08 INFO  ConsumingPost:26 - Archivo  descargar-guia.json consultando guia
+2023-06-15 01:29:08 INFO  ConsumingPost:26 - {"tipo_de_comprobante": 7, "serie": "TTT1", "numero": 1, "enlace": "https://www.nubefact.com/guia/d89f1735-d206-40a5-86b1-70e49a204960", "aceptada_por_sunat": true, "sunat_description": "ACEPTADA", "sunat_note": null, "sunat_responsecode": "0", "sunat_soap_error": "", "pdf_zip_base64": null, "xml_zip_base64": null, "cdr_zip_base64": null, "cadena_para_codigo_qr": "https://url-test?hashqr=test", "enlace_del_pdf": "https://www.nubefact.com/guia/d89f1735-d206-40a5-86b1-70e49a204960.pdf", "enlace_del_xml": "https://www.nubefact.com/guia/d89f1735-d206-40a5-86b1-70e49a204960.xml", "enlace_del_cdr": "https://www.nubefact.com/guia/d89f1735-d206-40a5-86b1-70e49a204960.cdr"}
+2023-06-15 01:29:12 INFO  ConsumingPost:26 - Archivo descargar-guia.json se ha desplazado a Enviado
+2023-06-30 09:27:27 ERROR ConsumingPost:20 - Codigo respuesta: 400
+2023-06-30 09:27:27 INFO  ConsumingPost:26 - Archivo 20100080932-09-T454-000001.json erroneo se ha desplazado a Errores
+2023-06-30 09:28:59 ERROR ConsumingPost:20 - Codigo respuesta: 400
+2023-06-30 09:28:59 INFO  ConsumingPost:26 - Archivo 78787.json erroneo se ha desplazado a Errores
+2023-06-30 09:32:12 ERROR ConsumingPost:20 - Codigo respuesta: 400
+2023-06-30 09:32:12 INFO  ConsumingPost:26 - Archivo 78787.json erroneo se ha desplazado a Errores
+2023-06-30 09:38:55 ERROR ConsumingPost:20 - Codigo respuesta: 400
+2023-06-30 09:38:55 INFO  ConsumingPost:26 - Archivo 78787.json erroneo se ha desplazado a Errores
+2023-06-30 09:39:26 ERROR ConsumingPost:20 - Codigo respuesta: 400
+2023-06-30 09:39:26 INFO  ConsumingPost:26 - Archivo 78787.json erroneo se ha desplazado a Errores
+2023-06-30 09:43:09 ERROR ConsumingPost:20 - Codigo respuesta: 400
+2023-06-30 09:43:09 INFO  ConsumingPost:26 - Archivo 78787.json erroneo se ha desplazado a Errores
+2023-06-30 09:46:59 INFO  ConsumingPost:26 - archivo  6666.TXT enviado a nubefact
+2023-06-30 09:47:04 INFO  ConsumingPost:26 - Archivo 6666.TXT se ha desplazado a Enviado
+2023-06-30 10:09:18 INFO  ConsumingPost:26 - Archivo 78787.json se ha desplazado a Enviado
+2023-06-30 11:35:57 INFO  ConsumingPost:26 - Archivo 20100080932-09-T454-000001.json se ha desplazado a Enviado
+2023-06-30 15:26:07 ERROR ConsumingPost:20 - Codigo respuesta: 400
+2023-06-30 15:26:07 INFO  ConsumingPost:26 - Archivo 20100080932-09-T353-000001.json erroneo se ha desplazado a Errores
+2023-06-30 15:26:59 INFO  ConsumingPost:26 - Archivo 20100080932-09-T353-000001.json se ha desplazado a Enviado
+2023-06-30 16:59:41 INFO  ConsumingPost:26 - Archivo 20100080932-09-T353-000001.json se ha desplazado a Enviado
+2023-06-30 19:06:35 INFO  ConsumingPost:26 - Archivo  20100080932-09-T353-000001.json enviado a nubefact
+2023-06-30 19:06:40 INFO  ConsumingPost:26 - Archivo 20100080932-09-T353-000001.json se ha desplazado a Enviado
+2023-06-30 19:09:03 INFO  ConsumingPost:26 - Archivo descargar-guia.json consultando guia
+2023-06-30 19:09:03 INFO  ConsumingPost:26 - {"tipo_de_comprobante": 7, "serie": "TTT1", "numero": 17, "enlace": "https://www.nubefact.com/guia/403690b4-889b-41d8-9928-c314594191a8", "aceptada_por_sunat": true, "sunat_description": "ACEPTADA", "sunat_note": null, "sunat_responsecode": "0", "sunat_soap_error": "", "pdf_zip_base64": null, "xml_zip_base64": null, "cdr_zip_base64": null, "cadena_para_codigo_qr": "https://url-test?hashqr=test", "enlace_del_pdf": "https://www.nubefact.com/guia/403690b4-889b-41d8-9928-c314594191a8.pdf", "enlace_del_xml": "https://www.nubefact.com/guia/403690b4-889b-41d8-9928-c314594191a8.xml", "enlace_del_cdr": "https://www.nubefact.com/guia/403690b4-889b-41d8-9928-c314594191a8.cdr"}
+2023-06-30 19:09:07 INFO  ConsumingPost:26 - Archivo descargar-guia.json se ha desplazado a Enviado
+2023-06-30 23:04:48 INFO  ConsumingPost:26 - Archivo  20100080932-09-T353-000001.json enviado a nubefact
+2023-06-30 23:04:52 INFO  ConsumingPost:26 - Archivo 20100080932-09-T353-000001.json se ha desplazado a Enviado
+2023-06-30 23:05:24 INFO  ConsumingPost:26 - {"tipo_de_comprobante": 7, "serie": "TTT1", "numero": 18, "enlace": "https://www.nubefact.com/guia/ff65018f-c21d-4012-8131-32d067cc815f", "aceptada_por_sunat": true, "sunat_description": "ACEPTADA", "sunat_note": null, "sunat_responsecode": "0", "sunat_soap_error": "", "pdf_zip_base64": null, "xml_zip_base64": null, "cdr_zip_base64": null, "cadena_para_codigo_qr": "https://url-test?hashqr=test", "enlace_del_pdf": "https://www.nubefact.com/guia/ff65018f-c21d-4012-8131-32d067cc815f.pdf", "enlace_del_xml": "https://www.nubefact.com/guia/ff65018f-c21d-4012-8131-32d067cc815f.xml", "enlace_del_cdr": "https://www.nubefact.com/guia/ff65018f-c21d-4012-8131-32d067cc815f.cdr"}
+2023-06-30 23:05:26 INFO  ConsumingPost:26 - Archivo descargar-guia.json se ha desplazado a Enviado
+2023-06-30 23:33:15 INFO  ConsumingPost:26 - Archivo  20100080932-09-T353-000001.json enviado a nubefact
+2023-06-30 23:33:19 INFO  ConsumingPost:26 - Archivo 20100080932-09-T353-000001.json se ha desplazado a Enviado
+2023-06-30 23:33:59 INFO  ConsumingPost:26 - Archivo  20100080932-09-T353-000001.json enviado a nubefact
+2023-06-30 23:33:59 ERROR ConsumingPost:20 - Código de respuesta: 400
+2023-06-30 23:33:59 ERROR ConsumingPost:20 - Error al manejar el JSON: JSONObject["codigo"] is not a string (class java.lang.Integer : 20).
+2023-06-30 23:45:50 INFO  ConsumingPost:26 - Archivo  20100080932-09-T353-000001.json enviado a nubefact
+2023-06-30 23:45:51 ERROR ConsumingPost:20 - Código de respuesta: 400
+2023-06-30 23:45:51 ERROR ConsumingPost:20 - Error al manejar el JSON: JSONObject["codigo"] is not a string (class java.lang.Integer : 20).
+2023-06-30 23:45:51 INFO  ConsumingPost:26 - Archivo 20100080932-09-T353-000001.json erroneo se ha desplazado a Errores
+2023-06-30 23:46:21 INFO  ConsumingPost:26 - Archivo  20100080932-09-T353-000001.json enviado a nubefact
+2023-06-30 23:46:22 ERROR ConsumingPost:20 - Código de respuesta: 400
+2023-06-30 23:46:22 ERROR ConsumingPost:20 - Error al manejar el JSON: JSONObject["codigo"] is not a string (class java.lang.Integer : 20).
+2023-06-30 23:46:22 INFO  ConsumingPost:26 - Archivo 20100080932-09-T353-000001.json erroneo se ha desplazado a Errores
+2023-06-30 23:48:42 INFO  ConsumingPost:26 - Archivo  2.json enviado a nubefact
+2023-06-30 23:48:45 INFO  ConsumingPost:26 - Archivo 2.json se ha desplazado a Enviado
+2023-06-30 23:48:45 INFO  ConsumingPost:26 - Archivo  3.json enviado a nubefact
+2023-06-30 23:48:47 INFO  ConsumingPost:26 - Archivo 3.json se ha desplazado a Enviado
+2023-06-30 23:48:47 INFO  ConsumingPost:26 - Archivo  4.json enviado a nubefact
+2023-06-30 23:48:49 INFO  ConsumingPost:26 - Archivo 4.json se ha desplazado a Enviado
+2023-06-30 23:48:49 INFO  ConsumingPost:26 - Archivo  5.json enviado a nubefact
+2023-06-30 23:48:52 INFO  ConsumingPost:26 - Archivo 5.json se ha desplazado a Enviado
+2023-07-01 00:26:03 INFO  ConsumingPost:26 - Archivo  6.json enviado a nubefact
+2023-07-01 00:26:05 ERROR ConsumingPost:20 - sb: {"errors":"Archivo JSON corrupto o mal construido, revisa que NO tenga caracteres escondidos, saltos de linea, Etc. Visita www.jsonlint.com para comprobar que el JSON que estás enviando es correcto.","codigo":20}
+2023-07-01 00:26:05 ERROR ConsumingPost:20 - Código de respuesta: 400
+2023-07-01 00:26:05 ERROR ConsumingPost:20 - Error al manejar el JSON: JSONObject["codigo"] is not a string (class java.lang.Integer : 20).
+2023-07-01 00:26:05 INFO  ConsumingPost:26 - Archivo 6.json erroneo se ha desplazado a Errores
+2023-07-01 00:27:23 INFO  ConsumingPost:26 - Archivo  6.json enviado a nubefact
+2023-07-01 00:27:25 ERROR ConsumingPost:20 - sb: {"errors":"Archivo JSON corrupto o mal construido, revisa que NO tenga caracteres escondidos, saltos de linea, Etc. Visita www.jsonlint.com para comprobar que el JSON que estás enviando es correcto.","codigo":20}
+2023-07-01 00:27:25 ERROR ConsumingPost:20 - Código de respuesta: 400
+2023-07-01 00:27:25 ERROR ConsumingPost:20 - Error al manejar el JSON: JSONObject["codigo"] is not a string (class java.lang.Integer : 20).
+2023-07-01 00:27:25 INFO  ConsumingPost:26 - Archivo 6.json erroneo se ha desplazado a Errores
+2023-07-01 00:28:05 INFO  ConsumingPost:26 - Archivo  6.json enviado a nubefact
+2023-07-01 00:28:07 ERROR ConsumingPost:20 - sb: {"errors":"Archivo JSON corrupto o mal construido, revisa que NO tenga caracteres escondidos, saltos de linea, Etc. Visita www.jsonlint.com para comprobar que el JSON que estás enviando es correcto.","codigo":20}
+2023-07-01 00:28:07 ERROR ConsumingPost:20 - Código de respuesta: 400
+2023-07-01 00:28:07 ERROR ConsumingPost:20 - Código nubefact: 20
+2023-07-01 00:28:07 ERROR ConsumingPost:20 - Mensaje nubefact: Archivo JSON corrupto o mal construido, revisa que NO tenga caracteres escondidos, saltos de linea, Etc. Visita www.jsonlint.com para comprobar que el JSON que estás enviando es correcto.
+2023-07-01 00:28:07 INFO  ConsumingPost:26 - Archivo 6.json erroneo se ha desplazado a Errores
+2023-07-01 10:15:20 INFO  ConsumingPost:26 - Archivo  6.json enviado a nubefact
+2023-07-01 10:15:23 ERROR ConsumingPost:20 - Código de respuesta: 400
+2023-07-01 10:15:23 ERROR ConsumingPost:20 - Código nubefact: 20
+2023-07-01 10:15:23 ERROR ConsumingPost:20 - Mensaje nubefact: Archivo JSON corrupto o mal construido, revisa que NO tenga caracteres escondidos, saltos de linea, Etc. Visita www.jsonlint.com para comprobar que el JSON que estás enviando es correcto.
+2023-07-01 10:15:23 INFO  ConsumingPost:26 - Archivo 6.json erroneo se ha desplazado a Errores
+2023-07-01 10:16:03 INFO  ConsumingPost:26 - Archivo  6.json enviado a nubefact
+2023-07-01 10:26:28 INFO  ConsumingPost:26 - Archivo  6.json enviado a nubefact
+2023-07-01 10:27:50 ERROR ConsumingPost:20 - Código de respuesta: 400
+2023-07-01 10:27:50 ERROR ConsumingPost:20 - Código nubefact: 20
+2023-07-01 10:27:50 ERROR ConsumingPost:20 - Mensaje nubefact: Archivo JSON corrupto o mal construido, revisa que NO tenga caracteres escondidos, saltos de linea, Etc. Visita www.jsonlint.com para comprobar que el JSON que estás enviando es correcto.
+2023-07-01 10:27:50 INFO  ConsumingPost:26 - Archivo 6.json erroneo se ha desplazado a Errores
+2023-07-01 10:28:40 INFO  ConsumingPost:26 - Archivo  6.json enviado a nubefact
+2023-07-01 10:34:47 INFO  ConsumingPost:26 - Archivo  6.json enviado a nubefact
+2023-07-01 10:34:50 ERROR ConsumingPost:20 - Código de respuesta: 400
+2023-07-01 10:34:50 ERROR ConsumingPost:20 - Código nubefact: 21
+2023-07-01 10:34:50 ERROR ConsumingPost:20 - Mensaje nubefact: RUC incorrecto, debe ser de 11 dígitos, Número de documento de la entidad no tiene la longitud correcta (11 caracteres exactos), Número de documento de la entidad no es un número
+2023-07-01 10:34:50 INFO  ConsumingPost:26 - Archivo 6.json erroneo se ha desplazado a Errores

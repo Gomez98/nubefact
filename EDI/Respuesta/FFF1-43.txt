@@ -1,0 +1,17 @@
+tipo_de_comprobante|1|
+serie|FFF1|
+numero|43|
+enlace|https://www.nubefact.com/cpe/9449174e-01c5-41cd-806b-f6ff84157ac9-7b8d5c95-80e2-4b41-9a09-f47479ce9037|
+aceptada_por_sunat|true|
+sunat_description|La Factura numero FFF1-43, ha sido aceptada|
+sunat_note||
+sunat_responsecode|0|
+sunat_soap_error||
+pdf_zip_base64||
+xml_zip_base64||
+cdr_zip_base64||
+cadena_para_codigo_qr|10096548104 | 01 | FFF1 | 000043 | 108.00 | 708.00 | 27/06/2020 | 6 | 20600695771 | knOWa/LpZzfbw8Cs46w8XFK/m038wP0MXl2sj6j9J8k= ||
+codigo_hash|knOWa/LpZzfbw8Cs46w8XFK/m038wP0MXl2sj6j9J8k=|
+enlace_del_pdf|https://www.nubefact.com/cpe/9449174e-01c5-41cd-806b-f6ff84157ac9-7b8d5c95-80e2-4b41-9a09-f47479ce9037.pdf|
+enlace_del_xml|https://www.nubefact.com/cpe/9449174e-01c5-41cd-806b-f6ff84157ac9-7b8d5c95-80e2-4b41-9a09-f47479ce9037.xml|
+enlace_del_cdr|https://www.nubefact.com/cpe/9449174e-01c5-41cd-806b-f6ff84157ac9-7b8d5c95-80e2-4b41-9a09-f47479ce9037.cdr|

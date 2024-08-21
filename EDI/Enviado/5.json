@@ -1,0 +1,43 @@
+{
+"operacion":"generar_guia",
+"tipo_de_comprobante":"7",
+"serie":"TTT1",
+"numero":"25",
+"cliente_tipo_de_documento":"6",
+"cliente_numero_de_documento":"20514795569",
+"cliente_denominacion":"HAMANN DISEÑO Y CONSTRUCCION S.A.C.",
+"cliente_direccion":"CAL. CAPITAN ELIAS AGUIRRE NRO. 180 URB. SURQUILLO LIMA - LIMA - MIRAFLORES",
+"cliente_email":"juanfdq1974@hotmail.com",
+"cliente_email_1":"gretelmolina1@gmail.com",
+"cliente_email_2":"",
+"fecha_de_emision":"30-06-2023",
+"observaciones":"",
+"motivo_de_traslado":"01",
+"peso_bruto_total":"326.65",
+"peso_bruto_unidad_de_medida":"KGM",
+"numero_de_bultos":"1",
+"tipo_de_transporte":"01",
+"fecha_de_inicio_de_traslado":"30-06-2023",
+"transportista_documento_tipo":"6",
+"transportista_documento_numero":"10082762839",
+"transportista_denominacion":"QUISPE YAURI JUSTO",
+"transportista_placa_numero":"C9U-782",
+"conductor_documento_tipo":"1",
+"conductor_documento_numero":"46661054",
+"conductor_nombre":"MIGUEL",
+"conductor_apellidos":"CHUPICA MENA",
+"conductor_numero_licencia":"Q46661054",
+"punto_de_partida_ubigeo":"150132",
+"punto_de_partida_direccion":"Jr. Cajamarquilla n° 1351 urb. zarate - san juan de lurigancho",
+"punto_de_partida_codigo_establecimiento_sunat":"0002",
+"punto_de_llegada_ubigeo":"150118",
+"punto_de_llegada_direccion":"AV. CAJAMARQUILLA PARCELA 12 - LURIGANCHO - CHOSICA",
+"punto_de_llegada_codigo_establecimiento_sunat":"0000",
+"enviar_automaticamente_al_cliente":"true",
+"formato_de_pdf":"A4",
+"items": [
+{"unidad_de_medida":"NIU","codigo":"014786","descripcion":"Garrucha 4 Ruedas GP-4 (300kg)","cantidad":"       18.0000"}
+,{"unidad_de_medida":"NIU","codigo":"005126","descripcion":"Perfil Stanley LAC 60 x 52 x 2.3mm x 6.0mts","cantidad":"       12.0000"}
+,{"unidad_de_medida":"NIU","codigo":"005521","descripcion":"Tubo Cuad LAC 4\" x 4\" x 2.5mm x 6.0mts","cantidad":"        1.0000"}
+]
+}

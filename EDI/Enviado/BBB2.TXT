@@ -1,0 +1,52 @@
+operacion|generar_comprobante|
+tipo_de_comprobante|2|
+serie|BBB1|
+numero|47|
+sunat_transaction|1|
+cliente_tipo_de_documento|1|
+cliente_numero_de_documento|47504619|
+cliente_denominacion|HUAMAN VELASQUEZ ELDI ARELI|
+cliente_direccion||
+cliente_email||
+cliente_email_1||
+cliente_email_2||
+fecha_de_emision|01-07-2020|
+fecha_de_vencimiento|01-07-2020|
+moneda|1|
+tipo_de_cambio|3.6|
+porcentaje_de_igv|18|
+descuento_global||
+total_descuento||
+total_anticipo||
+total_gravada|970.34|
+total_inafecta||
+total_exonerada||
+total_igv|174.66|
+total_impuestos_bolsas||
+total_gratuita||
+total_otros_cargos||
+total|1145|
+percepcion_tipo||
+percepcion_base_imponible||
+total_percepcion||
+total_incluido_percepcion||
+detraccion|false|
+observaciones||
+documento_que_se_modifica_tipo| |
+documento_que_se_modifica_serie||
+documento_que_se_modifica_numero||
+tipo_de_nota_de_credito||
+tipo_de_nota_de_debito||
+enviar_automaticamente_a_la_sunat|true|
+enviar_automaticamente_al_cliente|false|
+condiciones_de_pago||
+medio_de_pago||
+placa_vehiculo||
+orden_compra_servicio||
+formato_de_pdf|TICKET|
+generado_por_contingencia|false|
+item|NIU|001429|PROC AMD RYZEN 3 2200G AM4 730143309110|1.0000|355.9322|420.0000||355.93|1|64.07|420.00|false|||10000000|||
+item|NIU|001477|PLACAASUS PRIME A320M-K AMD 90MB0TV0'M0EAY0|1.0000|203.3898|240.0000||203.39|1|36.61|240.00|false|||10000000|||
+item|NIU|000345|TFORCE MEMORIA 8GB DDR4 2666 765441647633|1.0000|156.7797|185.0000||156.78|1|28.22|185.00|false|||10000000|||
+item|NIU|001445|SEAGATE 1TB SATA3  BARRACUDA ST1000DM010|1.0000|152.5424|180.0000||152.54|1|27.46|180.00|false|||10000000|||
+item|NIU|001031|CASE ENCORE NOVA 600W ENC 1057|1.0000|101.6949|120.0000||101.69|1|18.31|120.00|false|||10000000|||
